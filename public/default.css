@@ -1,0 +1,40 @@
+body { margin:0; padding:0; background-color: white;}
+
+#map { position:absolute; top:120px; bottom:20px; left: 20px; width:70%; }
+/*#map { position: absolute; }*/
+
+.map-buttons {
+  /*float: right;*/
+}
+
+#short-text {
+  position: absolute;
+  right: 30px;
+  width: 300px;
+}
+.collection {
+  top: 280px;
+  width: 300px;
+  position: absolute;
+  right: 30px;
+}
+
+
+@media only screen and (max-width : 992px) {
+  #map { position:absolute; top:500px; height: 400px; left: 0px; width:100%; }
+  .short-text {
+    position: absolute;
+    left: 10px;
+    width: 95%;
+  }
+  .collection {
+    top: 300px;
+    width: 95%;
+    position: absolute;
+    left: 10px;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #map { position:absolute; top:500px; height: 400px; left: 0px; width:100%; }
+}
