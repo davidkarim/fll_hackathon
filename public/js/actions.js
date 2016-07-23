@@ -13,27 +13,39 @@ item_4_text = "Cars stopping on crosswalk at intersections. Watch for pedestrian
 $("#item-1").click(function() {
   $("#item-1").addClass("active");
   $("#item-2, #item-3, #item-4").removeClass("active");
-  $("#map").css("display","inline");
+  $("#map-stop").css("display","inline");
+  $("#map-bike").css("display","hidden");
+  $("#map-school").css("display","hidden");
+  $("#map-crosswalk").css("display","hidden");
   $("#short-text").text(item_1_text);
 });
 
 $("#item-2").click(function() {
   $("#item-2").addClass("active");
   $("#item-1, #item-3, #item-4").removeClass("active");
-  $("#map").css("display","inline");
+  $("#map-school").css("display","inline");
+  $("#map-bike").css("display","hidden");
+  $("#map-stop").css("display","hidden");
+  $("#map-crosswalk").css("display","hidden");
   $("#short-text").text(item_2_text);
 });
 
 $("#item-3").click(function() {
   $("#item-3").addClass("active");
   $("#item-1, #item-2, #item-4").removeClass("active");
-  $("#map").css("display","inline");
+  $("#map-bike").css("display","inline");
+  $("#map-stop").css("display","hidden");
+  $("#map-school").css("display","hidden");
+  $("#map-crosswalk").css("display","hidden");
   $("#short-text").text(item_3_text);
 });
 
 $("#item-4").click(function() {
   $("#item-4").addClass("active");
   $("#item-1, #item-3, #item-2").removeClass("active");
-  $("#map").css("display","inline");
+  $("#map-crosswalk").css("display","inline");
+  $("#map-bike").css("display","hidden");
+  $("#map-school").css("display","hidden");
+  $("#map-stop").css("display","hidden");
   $("#short-text").text(item_4_text);
 });
