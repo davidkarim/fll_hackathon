@@ -19523,7 +19523,7 @@ map.on('load', function() {
     clusterMaxZoom: 15,
     clusterRadius: 20
   });
-  layers = [[0, 'green'], [2, 'orange'], [5, 'red']];
+  layers = [[0, 'green'], [20, 'orange'], [40, 'red']];
   layers.forEach(function(layer, i) {
     map.addLayer({
       'id': 'cluster-' + i,

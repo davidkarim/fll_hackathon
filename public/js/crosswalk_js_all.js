@@ -13,538 +13,7 @@ geoJsonData = {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1481399536133, 26.1222114562988]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1617660522461, 26.1218585968018]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1649398803711, 26.1100234985352]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1057739257813, 26.1109409332275]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1403884887695, 26.1191139221191]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1485443115234, 26.2036876678467]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1714019775391, 26.1382884979248]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1684722900391, 26.1469593048096]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1469345092773, 26.1331596374512]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1041870117188, 26.1217498779297]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1481094360352, 26.1384601593018]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1293716430664, 26.1300506591797]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1529159545898, 26.1383323669434]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1259689331055, 26.1426410675049]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1452560424805, 26.1205501556396]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1208801269531, 26.1005535125732]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1387786865234, 26.1261196136475]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1829376220703, 26.1136474609375]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1471481323242, 26.1073799133301]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1271591186523, 26.1183547973633]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1059112548828, 26.1192932128906]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1415481567383, 26.1422233581543]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1927185058594, 26.1047019958496]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1307220458984, 26.1022510528564]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1445465087891, 26.1231498718262]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1480484008789, 26.2107448577881]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1088485717773, 26.1705360412598]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1367568969727, 26.1002655029297]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1701354980469, 26.1291122436523]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "unlawful number person on bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1375122070313, 26.1316871643066]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1564865112305, 26.1311626434326]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1478042602539, 26.131404876709]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1046142578125, 26.1368522644043]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1445465087891, 26.1231498718262]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1670837402344, 26.1291828155518]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1058654785156, 26.1209182739258]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "improper/no bike brake"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1777954101563, 26.1084632873535]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1421966552734, 26.1138248443604]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1429748535156, 26.1075401306152]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1323165893555, 26.1192188262939]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "unlaw number of person on bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1777954101563, 26.1084632873535]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "unlawful number person on bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1592636108398, 26.1256332397461]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1474533081055, 26.1204128265381]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1520309448242, 26.1229553222656]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1323165893555, 26.1192188262939]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1009063720703, 26.1521186828613]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1058731079102, 26.1192836761475]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1857528686523, 26.1023025512695]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1397247314453, 26.1279106140137]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1406021118164, 26.1250915527344]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1564865112305, 26.1311626434326]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1388320922852, 26.1298942565918]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1408157348633, 26.0946273803711]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1415481567383, 26.1422233581543]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1594696044922, 26.1234893798828]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1406173706055, 26.1422595977783]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1422119140625, 26.085277557373]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
         "coordinates": [-80.157829284668, 26.2031402587891]
@@ -553,340 +22,43 @@ geoJsonData = {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1484756469727, 26.1203804016113]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1033782958984, 26.1290512084961]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1500396728516, 26.1383972167969]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1388320922852, 26.1298942565918]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.159553527832, 26.1250514984131]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1459579467773, 26.1332168579102]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1084823608398, 26.1379127502441]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1268997192383, 26.1426200866699]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1046142578125, 26.1368598937988]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1058731079102, 26.1192836761475]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1530380249023, 26.0962505340576]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1454010009766, 26.1438770294189]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1208801269531, 26.1005535125732]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1415023803711, 26.1403999328613]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1318206787109, 26.0681266784668]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1406173706055, 26.1422595977783]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.165168762207, 26.1291885375977]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1511001586914, 26.1402034759521]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1380157470703, 26.1334190368652]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1011734008789, 26.1596431732178]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1933975219727, 26.1069469451904]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1475219726563, 26.1222324371338]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1429748535156, 26.1075401306152]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1472473144531, 26.1145973205566]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1388549804688, 26.1298561096191]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1599578857422, 26.1421375274658]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "unlaw number of person on bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1856460571289, 26.0921802520752]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1307373046875, 26.1003456115723]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1500396728516, 26.1383972167969]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "improper/no bike brake"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1459579467773, 26.1332168579102]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1303329467773, 26.1503086090088]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1445465087891, 26.1231498718262]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1556854248047, 26.2032032012939]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.145622253418, 26.1204948425293]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1045608520508, 26.1182098388672]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1526260375977, 26.129467010498]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1547393798828, 26.118745803833]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
         "coordinates": [-80.1367568969727, 26.1002655029297]
@@ -895,1186 +67,1168 @@ geoJsonData = {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.173828125, 26.112756729126]
+        "coordinates": [-80.104377746582, 26.1209907531738]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1229248046875, 26.197546005249]
+        "coordinates": [-80.1413192749023, 26.0926628112793]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.2737579345703, 26.1208152770996]
+        "coordinates": [-80.1244659423828, 26.1004753112793]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1506042480469, 26.1249122619629]
+        "coordinates": [-80.1545791625977, 26.1294078826904]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper stop on bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1184005737305, 26.1481800079346]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1507797241211, 26.1312808990479]
+        "coordinates": [-80.1692276000977, 26.1364994049072]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1450805664063, 26.1349906921387]
+        "coordinates": [-80.1299133300781, 26.1192951202393]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "improper stop on crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1033325195313, 26.1332721710205]
+        "coordinates": [-80.1469497680664, 26.1000194549561]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1046295166016, 26.1166610717773]
+        "coordinates": [-80.1372375488281, 26.1191787719727]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1415634155273, 26.1421871185303]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1608810424805, 26.1528568267822]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1486358642578, 26.1240062713623]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper/no bike brake"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1446075439453, 26.1231517791748]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1415100097656, 26.1130027770996]
+        "coordinates": [-80.1429748535156, 26.1075401306152]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1556091308594, 26.1329460144043]
+        "coordinates": [-80.1046676635742, 26.1241207122803]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1370315551758, 26.1113529205322]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1533813476563, 26.1187801361084]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1715469360352, 26.1466522216797]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no or improper light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.163215637207, 26.118106842041]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1506042480469, 26.1249122619629]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1761856079102, 26.1064739227295]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1537628173828, 26.1347236633301]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1130142211914, 26.1545906066895]
+        "coordinates": [-80.1420593261719, 26.1006412506104]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.156120300293, 26.1186904907227]
+        "coordinates": [-80.1299133300781, 26.1192951202393]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1741256713867, 26.1424026489258]
+        "coordinates": [-80.1424255371094, 26.1385936737061]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1416168212891, 26.1439418792725]
+        "coordinates": [-80.143424987793, 26.1222553253174]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.160888671875, 26.0904407501221]
+        "coordinates": [-80.1475448608398, 26.1222515106201]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1623611450195, 26.1488094329834]
+        "coordinates": [-80.1467819213867, 26.0926170349121]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1370620727539, 26.110034942627]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1278228759766, 26.1067657470703]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1372222900391, 26.1191806793213]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no or improper light"
+          "title": "improper stop on crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1307220458984, 26.1022510528564]
+        "coordinates": [-80.1749725341797, 26.1215972900391]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1360855102539, 26.2036380767822]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1454010009766, 26.1438770294189]
+        "coordinates": [-80.1508026123047, 26.2032699584961]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1183319091797, 26.1891613006592]
+        "coordinates": [-80.1621322631836, 26.1328010559082]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1448287963867, 26.0954532623291]
+        "coordinates": [-80.146842956543, 26.0972709655762]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no or improper light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1363906860352, 26.1261596679688]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no or improper light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1475219726563, 26.1222324371338]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1238021850586, 26.1005096435547]
+        "coordinates": [-80.1299514770508, 26.1193313598633]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1354827880859, 26.1058158874512]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1054840087891, 26.1130409240723]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "unlawful number person on bike"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1592636108398, 26.1256332397461]
+        "coordinates": [-80.144775390625, 26.0926570892334]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1459579467773, 26.1332168579102]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "parent/guardian allow bike violation"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1183319091797, 26.1891613006592]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1953735351563, 26.1043891906738]
+        "coordinates": [-80.1434860229492, 26.1222057342529]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1730728149414, 26.1087818145752]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1847991943359, 26.1515998840332]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1424102783203, 26.1222820281982]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1030349731445, 26.1368579864502]
+        "coordinates": [-80.1415100097656, 26.097993850708]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "parent/guardian allow bike violation"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1480941772461, 26.1384410858154]
+        "coordinates": [-80.1403884887695, 26.1191673278809]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1430282592773, 26.1092548370361]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1733779907227, 26.1146602630615]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1435317993164, 26.1231746673584]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper/no bike brake"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1450805664063, 26.1349906921387]
+        "coordinates": [-80.1299133300781, 26.1192951202393]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1416931152344, 26.1457099914551]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1599578857422, 26.133602142334]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1196136474609, 26.1497745513916]
+        "coordinates": [-80.1170501708984, 26.1377429962158]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1426239013672, 26.0946178436279]
+        "coordinates": [-80.1539459228516, 26.1388378143311]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1620864868164, 26.1328277587891]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.182861328125, 26.150857925415]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1245040893555, 26.1005115509033]
+        "coordinates": [-80.1435241699219, 26.1223106384277]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1030349731445, 26.1368579864502]
+        "coordinates": [-80.1434326171875, 26.1205806732178]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1245040893555, 26.1005115509033]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "improper stop on crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1193008422852, 26.1376399993896]
+        "coordinates": [-80.1417846679688, 26.1222991943359]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1398010253906, 26.1298313140869]
+        "coordinates": [-80.1340637207031, 26.1192302703857]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1560592651367, 26.1884365081787]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "fail to wear bike helmet"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1187362670898, 26.2370052337646]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "slow bike fail ride right curb"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1747360229492, 26.1879978179932]
+        "coordinates": [-80.1367568969727, 26.1002655029297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "unlawful number person on bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1288909912109, 26.1446075439453]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no or improper light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1389007568359, 26.1300430297852]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper stop on bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1057357788086, 26.1176357269287]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1145401000977, 26.100736618042]
+        "coordinates": [-80.1070098876953, 26.1897735595703]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1054840087891, 26.1130409240723]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1047058105469, 26.1241626739502]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1046371459961, 26.1166667938232]
+        "coordinates": [-80.1393203735352, 26.119140625]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1054840087891, 26.1130504608154]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1159286499023, 26.1655921936035]
+        "coordinates": [-80.1430053710938, 26.1074981689453]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1157684326172, 26.1006908416748]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.104606628418, 26.1171474456787]
+        "coordinates": [-80.1052703857422, 26.1146430969238]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1150512695313, 26.1377639770508]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1207733154297, 26.2387962341309]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1054000854492, 26.1380348205566]
+        "coordinates": [-80.1059036254883, 26.1193199157715]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056976318359, 26.1166152954102]
+        "coordinates": [-80.1286010742188, 26.1208515167236]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1186752319336, 26.1696796417236]
+        "coordinates": [-80.1685028076172, 26.1067333221436]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056518554688, 26.1119995117188]
+        "coordinates": [-80.1070098876953, 26.1897735595703]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1024627685547, 26.1423625946045]
+        "coordinates": [-80.1471710205078, 26.1074180603027]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1054840087891, 26.1130409240723]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1387023925781, 26.1440563201904]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1576614379883, 26.1242961883545]
+        "coordinates": [-80.1070098876953, 26.1897735595703]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1057357788086, 26.1176357269287]
+        "coordinates": [-80.1258163452148, 26.1193561553955]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.105842590332, 26.1193027496338]
+        "coordinates": [-80.1690826416016, 26.1067352294922]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1430511474609, 26.1092910766602]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1057739257813, 26.1109409332275]
+        "coordinates": [-80.1679382324219, 26.1217880249023]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1435623168945, 26.1222877502441]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1692581176758, 26.1365337371826]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1415481567383, 26.1422233581543]
+        "coordinates": [-80.1785659790039, 26.1429996490479]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1182479858398, 26.1006164550781]
+        "coordinates": [-80.1651077270508, 26.1068096160889]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1034927368164, 26.1258182525635]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1127243041992, 26.1007671356201]
+        "coordinates": [-80.1322860717773, 26.1225624084473]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1394424438477, 26.1369171142578]
+        "coordinates": [-80.1688842773438, 26.1365375518799]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1228485107422, 26.1004867553711]
+        "coordinates": [-80.1486663818359, 26.2033824920654]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1438064575195, 26.1223030090332]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1574630737305, 26.131103515625]
+        "coordinates": [-80.1393203735352, 26.119140625]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
+        "coordinates": [-80.1667327880859, 26.1217555999756]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1228485107422, 26.1004867553711]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
+        "coordinates": [-80.1463623046875, 26.1213798522949]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1127243041992, 26.1007671356201]
+        "coordinates": [-80.1667327880859, 26.1217555999756]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1045532226563, 26.1193008422852]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1127243041992, 26.1007671356201]
+        "coordinates": [-80.1680450439453, 26.0904483795166]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1058807373047, 26.1193370819092]
+        "coordinates": [-80.1070098876953, 26.1897735595703]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1312866210938, 26.1192436218262]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1445465087891, 26.1231498718262]
+        "coordinates": [-80.1691131591797, 26.1067180633545]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056518554688, 26.1119995117188]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.150764465332, 26.1300983428955]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1037673950195, 26.1241836547852]
+        "coordinates": [-80.1041870117188, 26.1217498779297]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1574096679688, 26.1293563842773]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
+        "coordinates": [-80.1685028076172, 26.1067333221436]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "improper stop on crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1054840087891, 26.1130409240723]
+        "coordinates": [-80.1034393310547, 26.1280155181885]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "bike regulations violations"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1772689819336, 26.2075500488281]
+        "coordinates": [-80.1368026733398, 26.1003017425537]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056671142578, 26.1176471710205]
+        "coordinates": [-80.1486358642578, 26.2033424377441]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1686401367188, 26.12180519104]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.103271484375, 26.1332874298096]
+        "coordinates": [-80.1045150756836, 26.1192665100098]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.10595703125, 26.1192874908447]
+        "coordinates": [-80.1299133300781, 26.1192951202393]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper/no bike brake"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1543579101563, 26.151575088501]
+        "coordinates": [-80.1686401367188, 26.12180519104]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1739349365234, 26.1216316223145]
+        "coordinates": [-80.1692581176758, 26.1365337371826]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "stnd/park prohib bike lane"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1058807373047, 26.1193370819092]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1058654785156, 26.1209182739258]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
         "coordinates": [-80.1033401489258, 26.1304626464844]
@@ -2083,289 +1237,163 @@ geoJsonData = {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper stop on bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.0995407104492, 26.1746883392334]
+        "coordinates": [-80.1690826416016, 26.1067352294922]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056747436523, 26.117639541626]
+        "coordinates": [-80.1070098876953, 26.1897735595703]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1651077270508, 26.1068096160889]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1170043945313, 26.100643157959]
+        "coordinates": [-80.1045608520508, 26.1182098388672]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1145401000977, 26.100736618042]
+        "coordinates": [-80.1045532226563, 26.1193008422852]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no or improper light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1389007568359, 26.1300430297852]
+        "coordinates": [-80.1070098876953, 26.1897735595703]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1575164794922, 26.1328659057617]
+        "coordinates": [-80.1471710205078, 26.1074180603027]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.2166061401367, 26.2434349060059]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1056442260742, 26.1251697540283]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1288909912109, 26.1446075439453]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "improper/no bike brake"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1837692260742, 26.1508255004883]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1140213012695, 26.1378421783447]
+        "coordinates": [-80.1651077270508, 26.1068096160889]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1024627685547, 26.1423625946045]
+        "coordinates": [-80.157829284668, 26.2031402587891]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "slow bike fail ride right curb"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1444625854492, 26.1428604125977]
+        "coordinates": [-80.1692581176758, 26.1365337371826]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1046676635742, 26.1166954040527]
+        "coordinates": [-80.1474380493164, 26.1204147338867]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "drive on sidewalk/bike path"
+          "title": "ftyrow to ped at crosswalk with signage"
         },
         "type": "Feature",
-        "coordinates": [-80.1093521118164, 26.1026287078857]
+        "coordinates": [-80.1058807373047, 26.1193370819092]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "riding bike with no/imp light"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.1404876708984, 26.1404552459717]
+        "coordinates": [-80.0910797119141, 26.2301177978516]
       }
     }, {
       "geometry": {
         "properties": {
           "icon": "star",
-          "title": "veh fail use due care-ped/bike"
+          "title": "block intersection/crosswalk"
         },
         "type": "Feature",
-        "coordinates": [-80.116340637207, 26.1612300872803]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1054840087891, 26.1130409240723]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1052703857422, 26.1146430969238]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "veh fail use due care-ped/bike"
-        },
-        "type": "Feature",
-        "coordinates": [-80.146858215332, 26.1473503112793]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1861343383789, 26.1181373596191]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1437454223633, 26.1223049163818]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.105842590332, 26.1193027496338]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1033782958984, 26.1311416625977]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1507110595703, 26.1295757293701]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no or improper light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1556777954102, 26.1514930725098]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1413650512695, 26.136890411377]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "drive on sidewalk/bike path"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1145401000977, 26.100736618042]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "bike regulations violations"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1052703857422, 26.1146430969238]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.2166061401367, 26.2434349060059]
-      }
-    }, {
-      "geometry": {
-        "properties": {
-          "icon": "star",
-          "title": "riding bike with no/imp light"
-        },
-        "type": "Feature",
-        "coordinates": [-80.1395797729492, 26.126106262207]
+        "coordinates": [-80.1693344116211, 26.1217975616455]
       }
     }
   ]
@@ -2468,7 +1496,7 @@ map.on('load', function() {
     clusterMaxZoom: 15,
     clusterRadius: 20
   });
-  layers = [[0, 'green'], [2, 'orange'], [5, 'red']];
+  layers = [[0, 'green'], [20, 'orange'], [40, 'red']];
   layers.forEach(function(layer, i) {
     map.addLayer({
       'id': 'cluster-' + i,
