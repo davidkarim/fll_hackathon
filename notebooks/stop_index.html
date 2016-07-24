@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+	<head>
+		<title>{% block title %}Hello Flask{% endblock %}</title>
+		{% block extra_headers %}{% endblock %}
+		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+		<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.21.0/mapbox-gl.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.21.0/mapbox-gl.css' rel='stylesheet' />
+		<style>
+			body { margin:0; padding:0; }
+			#map { position:absolute; top:0; bottom:0; width:100%; }
+		</style>
+
+		{% assets "css_all" %}
+		<link rel="stylesheet" type="text/css" href="{{ ASSET_URL }}">
+		{% endassets %}
+	</head>
+	<body>
+	        <div id='map'></div>
+
+		{% block body_content %}
+		{% endblock %}
+
+		{% assets "js_all" %}
+		<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+		{% endassets %}
+	</body>
+</html>
+
